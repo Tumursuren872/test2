@@ -61,8 +61,6 @@
   <resources>
     <resource identifier="__5yWiTBS3R67_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
-      <file href="story_content/6hMZjHeh0MU6jn5nCLw6ZY{Width=504, Height=232}Dark_80_DX1008_DY1008.jpg" />
-      <file href="mobile/6hMZjHeh0MU6jn5nCLw6ZY{Width=504, Height=232}Dark_80_DX1008_DY1008_CX504_CY232.jpg" />
       <file href="story_content/5uDDdWl0Xq1_80_DX222_DY222.swf" />
       <file href="mobile/5uDDdWl0Xq1_80_DX222_DY222_CX232_CY127.png" />
       <file href="story_content/66lrnoSyXhG_80_DX264_DY264.swf" />
@@ -73,6 +71,8 @@
       <file href="mobile/5powD6dKNdP_80_DX216_DY216_CX226_CY155.png" />
       <file href="story_content/6nbAoV3ERcM_80_DX220_DY220.jpg" />
       <file href="mobile/6nbAoV3ERcM_80_DX220_DY220_CX230_CY139.jpg" />
+      <file href="story_content/6qPALONh4XF6CjI9FwoL49{Width=504, Height=240}Dark_80_DX1008_DY1008.jpg" />
+      <file href="mobile/6qPALONh4XF6CjI9FwoL49{Width=504, Height=240}Dark_80_DX1008_DY1008_CX504_CY240.jpg" />
       <file href="story_content/6lRBFk3tiIk_80_P_0_0_1276_897_DX1440_DY1440.swf" />
       <file href="mobile/6lRBFk3tiIk_80_P_0_0_1276_897_DX1440_DY1440_CX1208_CY849.png" />
       <file href="story_content/6Lw3BHCnCqU_80_B28_C38_DX1238_DY1238.swf" />
